@@ -6,6 +6,7 @@
 - 🎓  MSc in Computer Sciences at [UGR](https://www.ugr.es/en/)
 - 🧠  Interested in Software Development
 - 💡   Learning Flutter and Unreal Engine 5
+- ⌛   In my spare time I love design logos, play videogames, do some hiking or even code!
 
 ***
 
