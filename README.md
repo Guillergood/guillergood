@@ -8,11 +8,14 @@
 - 💡   Learning Flutter and Unreal Engine 5
 
 ***
+
 <p align="center" vertical-align="top">
     <img alt="Top coding languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillergood&theme=default&layout=compact&hide_border=true"/>
     <img alt="Commit stats" src="https://github-readme-stats.vercel.app/api?username=guillergood&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
 </p>
+
 ***
+
 <p align="center">
     <a href="https://www.linkedin.com/in/guillergood/" target="_blank">
     	<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillergood/">
