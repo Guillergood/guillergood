@@ -2,7 +2,7 @@
 
 ***
 
-- 💻  Software Engineer at [ELCA](https://www.elca.ch/en)
+- 💻  Software Engineer at [Novatec](https://www.novatec-gmbh.de/)
 - 🎓  MSc in Computer Sciences at [UGR](https://www.ugr.es/en/)
 - 🧠  Interested in Software Development
 - 💡   Learning Flutter and Unreal Engine 5
